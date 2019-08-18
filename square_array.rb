@@ -6,3 +6,6 @@ while counter < array.length do
     counter += 1 
     new_array
 end
+  ##return the new array 
+  new array
+end
