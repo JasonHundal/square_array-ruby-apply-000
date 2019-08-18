@@ -7,5 +7,5 @@ while counter < array.length do
     new_array
 end
   ##return the new array 
-  new array
+  new_array
 end
