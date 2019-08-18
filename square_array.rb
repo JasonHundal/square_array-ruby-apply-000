@@ -7,7 +7,7 @@ while array [counter] do
     counter += 1 
 end
   
-  return the new_array 
+  return new_array 
   
 end
 
