@@ -11,4 +11,3 @@ end
   
 end
 
-square_array ([2,3,4])
